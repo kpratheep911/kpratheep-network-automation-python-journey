@@ -1,10 +1,10 @@
-# 🚀 Network Automation Python Journey
+# Network Automation Python Journey
 
 Welcome to my Network Automation Python Journey!
 
 This repository documents my journey of building **100 practical Python projects** focused on network automation, from beginner scripts to enterprise automation tools.
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Learn Python through real-world projects
 - Build network automation tools
@@ -14,7 +14,7 @@ This repository documents my journey of building **100 practical Python projects
 - Learn Ansible
 - Build a professional GitHub portfolio
 
-## 📚 Project Progress
+## Project Progress
 
 - [ ] 001 Read CSV
 - [ ] 002 Inventory Summary
