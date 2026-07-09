@@ -70,6 +70,8 @@ FW01              10.10.1.3
 * Ping devices and display their status
 * Build an interactive menu-driven interface
 
+Note: This project uses a sample inventory containing fictional devices, IP addresses, and locations. No production or customer data is included.
+
 ## Author
 
 **Pratheep Kumar**
