@@ -1,0 +1,5 @@
+f=open("abc.txt","w")
+print("file created")
+f.write("Hello My friends")
+(" How are you")
+f.close()

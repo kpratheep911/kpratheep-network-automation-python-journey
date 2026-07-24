@@ -1,0 +1,13 @@
+CHANGE REPORT
+========================================
+
+✅ SUCCESSFUL DEVICES:
+  R1
+  R3
+
+Total Success: 2
+
+❌ FAILED DEVICES:
+  R2
+
+Total Failed: 1

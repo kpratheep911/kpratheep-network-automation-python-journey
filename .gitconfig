@@ -1,0 +1,7 @@
+[user]
+	email = kpratheepmsc@gmail.com
+	name = Pratheep Kumar
+[core]
+	editor = notepad
+[init]
+	defaultBranch = main
